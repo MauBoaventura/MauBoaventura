@@ -52,3 +52,7 @@ Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/mauricio-boaventura-
 </p>
 
 #Desenvolvedor #ReactJS #TypeScript #NextJS #NodeJS
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauBoaventura&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
