@@ -2,7 +2,7 @@
 
 ### Desenvolvedor React | TypeScript | Next.js | Node.js
 
-Olá! Sou um desenvolvedor React com ênfase em TypeScript, Next.js e Node.js. Tenho 3 anos de experiência, incluindo trabalhos remotos. Sou apaixonado por criar interfaces modernas e eficientes para os usuários. 
+Olá! Sou um desenvolvedor React com ênfase em TypeScript, Next.js e Node.js. Tenho 4 anos de experiência, incluindo trabalhos remotos. Sou apaixonado por criar interfaces modernas e eficientes para os usuários. 
 
 **Habilidades:**
 - Desenvolvimento ReactJS
